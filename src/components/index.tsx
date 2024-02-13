@@ -18,7 +18,7 @@ export function SiderBar (){
      </InputRoot>
 
         <nav className="space-y-0.5">
-          <NavItem title="Home" icon={Home} href="/categories" />
+          <NavItem title="Home" icon={Home}  />
           <NavItem title="DashBoard" icon={BarChart} />
           <NavItem title="Projects" icon={SquareStack} />
           <NavItem title="Tasks" icon={CheckSquare} />

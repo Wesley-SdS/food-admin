@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Edit, Phone, Truck, trash } from "react-feather";
+
 import {
   Dialog,
   DialogClose,
@@ -23,7 +23,7 @@ import {
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
 import { Button } from "../ui/button";
-import { Edit2, Trash2, MessageSquareText, CopyIcon } from "lucide-react";
+import { Edit2, Trash2, MessageSquareText, CopyIcon, Phone, Truck, Edit } from "lucide-react";
 import { Label } from "@radix-ui/react-select";
 import { Input } from "../ui/input";
 
